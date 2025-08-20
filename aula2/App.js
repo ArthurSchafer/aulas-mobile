@@ -9,7 +9,7 @@ export default function App() {
         alignItems: "center",
       }}
     >
-      <Text>Você que leu é lindo :D</Text>
+      <Text>Você que leu é lindo :D (Tirando o Maicon)</Text>
     </View>
   );
 }
