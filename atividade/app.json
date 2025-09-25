@@ -1,0 +1,7 @@
+{
+  "name": "atividade",
+  "slug": "atividade",
+  "plugins": [
+    "expo-router"
+  ]
+}
